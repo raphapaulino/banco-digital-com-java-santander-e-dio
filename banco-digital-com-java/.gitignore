@@ -1,2 +1,6 @@
 # IDEs and editors
 /.idea
+
+# compiled output
+/out-tsc
+/out
